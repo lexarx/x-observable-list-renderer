@@ -1,0 +1,13 @@
+{
+	"name": "x-observable-list-renderer",
+	"version": "1.0.0",
+	"description": "Renders DOM nodes for observable list elements.",
+	"keywords": [
+		"list", "observable", "render"
+	],
+	"author": "Alexey Nichiporchik",
+	"bugs": "https://github.com/lexarx/x-observable-list-renderer/issues",
+	"license": "MIT",
+	"main": "observable-list-renderer.js",
+	"repository": "lexarx/x-observable-list-renderer"
+}
